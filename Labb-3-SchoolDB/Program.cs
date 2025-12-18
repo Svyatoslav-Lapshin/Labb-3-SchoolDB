@@ -1,11 +1,9 @@
-﻿using DatabaseSchool.Menu;
+﻿using Labb_3_SchoolDB.Menu;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
-
-
 using System.Globalization;
 
-namespace School
+namespace Labb_3_SchoolDB
 {
 
     internal class Program

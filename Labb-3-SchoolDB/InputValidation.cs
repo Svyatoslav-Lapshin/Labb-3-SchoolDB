@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace School
+namespace Labb_3_SchoolDB
 {
     internal class InputValidation
     {

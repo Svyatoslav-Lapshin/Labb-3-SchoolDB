@@ -9,7 +9,7 @@ using System.Text;
 using Labb_3_SchoolDB.Data;
 
 
-namespace DatabaseSchool.Menu
+namespace Labb_3_SchoolDB.Menu
 {
 
     internal class MainMenu
