@@ -1,7 +1,6 @@
 ﻿
 using Labb_3_SchoolDB.Models;
 using Microsoft.EntityFrameworkCore;
-using School;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
